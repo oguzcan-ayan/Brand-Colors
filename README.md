@@ -1,8 +1,14 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Brand-Colors
 
-Currently, two official plugins are available:
+Ünlü markaların kullandığı ana renklerin paletler halinde alınabildiği bir React uygulaması.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+(Go Live)[https://brand-colors-seven.vercel.app/]
+
+## Used Teknolou
+
+- react-modal v3.16.1
+
+- sass v1.69.5
+
+  
