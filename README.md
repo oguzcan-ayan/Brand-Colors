@@ -7,7 +7,7 @@ A React application where the main colors used by famous brands can be purchased
 
 ## Kullanılan Teknolojiler-Used Technologies
 
-react@18.2.0
+[react@18.2.0](https://react.dev/)
 
 react-clipboard.js@2.0.16
 
@@ -24,11 +24,13 @@ react-router-dom@6.18.0
 sass@1.69.5
 
 
-
+  
 Projeyi canlı olarak görmek istiyorsanız, [Projeye Git](https://brand-colors-seven.vercel.app/)
 
 
 If you want to see the Project, then [Go Live](https://brand-colors-seven.vercel.app/)
+
+
 
 
 
